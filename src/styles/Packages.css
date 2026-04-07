@@ -1,0 +1,23 @@
+.packages {
+  position: relative;
+  overflow: hidden;
+}
+
+.packages::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 250px;
+  background-image: url(../assets/rectangle.png);
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  z-index: 1;
+}
+
+.packages > * {
+  position: relative;
+  z-index: 2;
+}
