@@ -67,7 +67,7 @@ html {
 }
 .about {
   /* background-image: sets the hero section's background image from the assets folder */
-  background-image: url('../assets/jollof.png');
+  background-image: url('../assets/Jollof.png');
   /* background-size: cover makes the image fill the entire container while maintaining aspect ratio */
   background-size: cover;
   /* background-position: center positions the image in the middle of the container */
@@ -198,6 +198,14 @@ html {
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.272);
   animation: slideInDetails 0.8s ease-in-out;
 }
+.details span{
+  color: #dd7f58;
+}
+.total{
+font-size: 18px;
+font-weight: bold;
+}
+
 .box img,.details {
   animation-play-state: paused; /* Default paused */
 }
@@ -287,7 +295,7 @@ html {
   font-size: 14px;
 }
 
-.card a {
+.card a, .details a {
   position: relative;
   z-index: 2;
   align-self: flex-start;

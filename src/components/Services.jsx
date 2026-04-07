@@ -13,7 +13,7 @@ const servicesData = [
     title: 'Jollof Rice',
     description: 'A rich and flavorful West African classic, cooked in a perfectly spiced tomato sauce and served with tender, juicy accompaniments. Every bite is bold, satisfying, and unforgettable.',
     linkText: 'Order Now',
-    linkHref: 'https://wa.me/c/4915738200469',
+    linkHref: 'https://wa.me/4915738200469?text=Hello%20I%20would%20like%20to%20order',
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const servicesData = [
     title: 'Meat Pie',
     description: 'Golden, flaky pastry filled with a savory blend of seasoned minced meat and vegetables. Baked to perfection for a deliciously crispy outside and a warm, hearty inside.',
     linkText: 'Order Now',
-    linkHref: 'https://wa.me/c/4915738200469',
+    linkHref: 'https://wa.me/4915738200469?text=Hello%20I%20would%20like%20to%20order',
   },
   {
     id: 3,
@@ -29,7 +29,7 @@ const servicesData = [
     title: 'Cupcakes',
     description: 'Light, moist, and beautifully topped, our cupcakes are baked fresh daily and crafted to bring a touch of sweetness and joy to every moment.',
     linkText: 'Order Now',
-    linkHref: 'https://wa.me/c/4915738200469',
+    linkHref: 'https://wa.me/4915738200469?text=Hello%20I%20would%20like%20to%20order',
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ const servicesData = [
     title: 'Pancakes',
     description: 'Soft, fluffy pancakes made fresh and filled with your choice of rich chocolate, savory meat, or flavorful fish. A perfect balance of sweetness and taste in every bite.',
     linkText: 'Order Now',
-    linkHref: 'https://wa.me/c/4915738200469',
+    linkHref: 'https://wa.me/4915738200469?text=Hello%20I%20would%20like%20to%20order',
   },
   {
     id: 5,
@@ -45,7 +45,7 @@ const servicesData = [
     title: 'Puff Beignets',
     description: 'Soft, airy, and lightly golden, these classic puff-puffs are deep-fried to perfection and dusted for a delightful, melt-in-your-mouth experience.',
     linkText: 'Order Now',
-    linkHref: 'https://wa.me/c/4915738200469',
+    linkHref: 'https://wa.me/4915738200469?text=Hello%20I%20would%20like%20to%20order',
   },
 ]
 
